@@ -1,0 +1,2 @@
+# Telecom_churn
+This is a project developed in WPS(SAS) to build a model which would answer a few key questions of interest to roll out targeted proactive retention programs to reduce churn rate at a telecom company called Mobicon. Binary logistic regression is used to develop the model after necessary data preparation. The insight derived from data is used to plan out better strategies to retain the customers.
